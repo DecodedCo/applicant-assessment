@@ -1,2 +1,5 @@
-# applicant-assessment
-Decoded's online applicant assessment
+# Decoded Applicant Assessment
+
+Welcome! This repository hosts remote assessments for the Decoded Data Felllowship/Academy.
+
+Please see the [General Assessment.ipynb](General Assessment) to start.
